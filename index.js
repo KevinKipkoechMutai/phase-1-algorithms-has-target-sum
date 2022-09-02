@@ -6,8 +6,8 @@ function hasTargetSum(array, target) {
         return true;
       }
     }
-    return false;
   }
+  return false;
 }
 
 /* 
